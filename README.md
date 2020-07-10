@@ -7,4 +7,4 @@ The application displays a list of questions. There are several answer options f
 You can run application at: https://rocky-sea-16902.herokuapp.com/polls/
 
 Admin panel available here: https://rocky-sea-16902.herokuapp.com/admin/
-Use login 'admin' and password '123qwe'
+Use login 'admin' and password '123qwe45'
